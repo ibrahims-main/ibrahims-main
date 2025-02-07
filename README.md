@@ -1,6 +1,6 @@
 # Hello, I'm Ibrahim! 👋
 
-I'm a 13-year-old aspiring programmer. I love coding, and I'm always looking for new challenges and projects to work on. 
+I'm a 14-year-old aspiring programmer. I love coding, and I'm always looking for new challenges and projects to work on. 
 
 ## 🌱 Currently Learning
 - Physics and Chemistry lmfao what u thought
