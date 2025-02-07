@@ -32,7 +32,6 @@ Feel free to connect with me:
 - TypeScript
 - HTML
 - CSS
-- React
 
 ## 📫 Get in Touch
 If you want to reach out, feel free to send me an email at [codingstudentbruh@gmail.com](mailto:codingstudentbruh@gmail.com). (funny one)
