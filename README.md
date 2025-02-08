@@ -106,4 +106,10 @@ Here are some of my **C++** projects:
 
 ---
 
+<p align="center">
+  <img src="https://github.com/ibrahims-main/ibrahims-main/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</p>
+
+---
+
 <p align="center">🔥 Thanks for stopping by! Keep coding & stay awesome! 🔥</p>
