@@ -36,14 +36,21 @@ Here are some of my **C++** projects:
     <td><a href="https://github.com/ibrahims-main/SecureCrypt">🔗 View Project</a></td>
   </tr>
   <tr>
-    <td><b>Cheer</b></td>
-    <td>My personal Discord server bot.</td>
-    <td><a href="https://github.com/ibrahims-main/Cheer">🔗 View Project</a></td>
-  </tr>
-  <tr>
     <td><b>FileWatcher</b></td>
     <td>A C++ library to monitor files in real time.</td>
     <td><a href="https://github.com/ibrahims-main/FileWatcher">🔗 View Project</a></td>
+  </tr>
+</table>
+
+---
+
+## This one is in **Python** so its an outcast
+
+<table>
+  <tr>
+    <td><b>Cheer</b></td>
+    <td>My personal Discord server bot.</td>
+    <td><a href="https://github.com/ibrahims-main/Cheer">🔗 View Project</a></td>
   </tr>
 </table>
 
