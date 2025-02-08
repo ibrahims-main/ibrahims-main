@@ -106,11 +106,4 @@ Here are some of my **C++** projects:
 
 ---
 
-## **Spotify Now Playing**
-<p align="center">
-  <img src="https://novatorem-ibrahims-main.vercel.app/api/spotify" alt="Spotify Now Playing">
-</p>
-
----
-
 <p align="center">🔥 Thanks for stopping by! Keep coding & stay awesome! 🔥</p>
