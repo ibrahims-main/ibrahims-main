@@ -59,6 +59,11 @@ Here are some of my **C++** projects:
     <td>My personal Discord server bot.</td>
     <td><a href="https://github.com/ibrahims-main/Cheer">🔗 View</a></td>
   </tr>
+  <tr>
+    <td><b>EzPage</b></td>
+    <td>A Discord library that makes pagination easier</td>
+    <td><a href="https://github.com/ibrahims-main/EzPage">🔗 View</a></td>
+  </tr>
 </table>
 
 ---
