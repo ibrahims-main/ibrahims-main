@@ -44,7 +44,7 @@ Here are some of my **C++** projects:
 
 ---
 
-## This one is in **Python** so its an outcast
+This one is in **Python** so its an outcast
 
 <table>
   <tr>
