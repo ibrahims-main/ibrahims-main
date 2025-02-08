@@ -106,8 +106,9 @@ Here are some of my **C++** projects:
 
 ---
 
+## **Spotify Now Playing**
 <p align="center">
-  <img src="https://github.com/ibrahims-main/ibrahims-main/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+  <img src="https://novatorem-ibrahims-main.vercel.app/api/spotify" alt="Spotify Now Playing">
 </p>
 
 ---
