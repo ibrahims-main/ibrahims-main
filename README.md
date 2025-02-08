@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Ibrahim! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&color=00FF00&center=true&vCenter=true&lines=Aspiring+Programmer;C%2B%2B+Lover;Tech+Enthusiast;Building+Cool+Stuff" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&color=00FF00&center=true&vCenter=true&lines=Aspiring+Programmer;C%2B%2B+Lover;Tech+Enthusiast;Building+Cool+Stuff;Future+Quant+Dev" alt="Typing SVG">
 </p>
 
 ---
