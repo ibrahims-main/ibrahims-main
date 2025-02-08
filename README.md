@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 **About Me**
-- 🔥 Aspiring **Quant Developer** & Tech Enthusiast  
+- 🔥 Future **Quant Developer**  
 - 🛠️ Passionate about **C++, Python, and making cool things**  
 - 🤖 Working on **custom OS, Discord bots, and dev tools**  
 - 🎯 Always exploring **new technologies & algorithms**  
