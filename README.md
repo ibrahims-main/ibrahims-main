@@ -55,11 +55,6 @@ Here are some of my **C++** projects:
 > 🎭 **Python projects? They're outcasts!**
 <table>
   <tr>
-    <td><b>Cheer</b></td>
-    <td>My personal Discord server bot.</td>
-    <td><a href="https://github.com/ibrahims-main/Cheer">🔗 View</a></td>
-  </tr>
-  <tr>
     <td><b>EzPage</b></td>
     <td>A Discord library that makes pagination easier</td>
     <td><a href="https://github.com/ibrahims-main/EzPage">🔗 View</a></td>
