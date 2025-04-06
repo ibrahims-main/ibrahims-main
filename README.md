@@ -69,6 +69,11 @@ Here are some of my **C++** projects:
     <td>A simple and efficient Discord bot generator that helps you set up a bot</td>
     <td><a href="https://github.com/ibrahims-main/QuickDiscord">🔗 View</a></td>
   </tr>
+  <tr>
+    <td><b>DepGeist</b></td>
+    <td>DepGeist is an intelligent dependency manager that scans your Python project, detects missing or unused dependencies, and suggests updates in seconds.</td>
+    <td><a href="https://github.com/ibrahims-main/DepGeist">🔗 View</a></td>
+  </tr>
 </table>
 
 ---
