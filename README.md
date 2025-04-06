@@ -64,6 +64,11 @@ Here are some of my **C++** projects:
     <td>A simple permission manager for Discord bots.</td>
     <td><a href="https://github.com/ibrahims-main/EzPermissions">🔗 View</a></td>
   </tr>
+  <tr>
+    <td><b>QuickDiscord</b></td>
+    <td>A simple and efficient Discord bot generator that helps you set up a bot</td>
+    <td><a href="https://github.com/ibrahims-main/QuickDiscord">🔗 View</a></td>
+  </tr>
 </table>
 
 ---
